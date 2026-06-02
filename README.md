@@ -1,4 +1,4 @@
-### **So**
+### ***So***
 ***
 
 This very simple python discord bots purpose is to tell you (currently 3) statistics about your personal PC i think.
