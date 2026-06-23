@@ -28,7 +28,7 @@ async def load_cogs():
 async def main():
     await load_cogs()
     await bot.start(
-        "MTQzNTMyMzE5MjM4MTAxNDAyNg.GtNG9q.xkdE5eacOB8O00GpXbSkLhl_lfcBhZtImnaQYI"
+        
     )
 
 
